@@ -1,12 +1,27 @@
-- 👋 Hi, I’m @Ladele007
-- 👀 I’m interested in expanding my knowledge in data analysis
-- 🌱 I’m currently learning Data Analysis
-- 💞️ I’m looking to collaborate on Projects partaining to data cleaning, visualization and storytelling
-- 📫 How to reach me oladele.adu@yahoo.com or my WhatsApp number +2348149201538
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I LOVE PLAYING VIDEO GAMES
+# Hi there 👋, I'm Kareem Adu
 
-<!---
-Ladele007/Ladele007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate **Data Analyst** with a strong foundation in:
+- 📊 Data Cleaning, Analysis & Visualization
+- 🧪 SQL, Python, Power BI & Excel
+- 📁 Building intuitive dashboards to drive business decisions
+
+## 🚀 What I'm Working On
+- Improving my portfolio of real-world data projects
+- Exploring machine learning for predictive analytics
+- Contributing to open-source data visualization tools
+
+## 🔧 Tools & Technologies
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=postgresql)
+![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
+![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
+
+## 🧰 Featured Projects
+- [🚗 Car Sales Dashboard](https://github.com/Ladele007/CarSalesData)
+- [📈 Revenue Stream Analysis](https://github.com/kareemadu/revenue-analysis)
+
+## 📫 Let’s Connect!
+- [LinkedIn](www.linkedin.com/in/kareem-adu-502086327)
+- [GitHub](https://github.com/kareemadu)
+
+> “Turning raw data into real insights.”
