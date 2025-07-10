@@ -19,6 +19,7 @@ I'm a passionate **Data Analyst** with a strong foundation in:
 ## 🧰 Featured Projects
 - [🚗 Car Sales Dashboard](https://github.com/Ladele007/CarSalesData)
 - [📈 Revenue Stream Analysis](https://github.com/kareemadu/revenue-analysis)
+- [🛒 TATA-Online-Retail-Dataset](https://github.com/Ladele007/TATA-Online-Retail-Dataset) 
 
 ## 📫 Let’s Connect!
 - [LinkedIn](www.linkedin.com/in/kareem-adu-502086327)
